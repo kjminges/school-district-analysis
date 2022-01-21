@@ -67,20 +67,29 @@ Average Math Scores by Grade Level and School
 **Appendix D**
 
 Scores by School Spending per Student
+
 ![pre_spending_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_spending_summary.png)
+
 Scores by School Spending per Student **_Excluding_** Ninth Grade Students from Thomas High School
+
 ![post_spending_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_spending_summary.png)
 
 **Appendix E**
 
 Scores by School Size
+
 ![pre_size_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_size_summary.png)
+
 Scores by School Size **_Excluding_** Ninth Grade Students from Thomas High School
+
 ![post_size_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_size_summary.png)
 
 **Appendix F**
 
 Scores by School Type
+
 ![pre_type_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_type_summary.png)
+
 Scores by School Type **_Excluding_** Ninth Grade Students from Thomas High School
+
 ![post_type_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_type_summary.png)
