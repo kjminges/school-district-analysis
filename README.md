@@ -41,37 +41,46 @@ If the school board is convinced that academic dishonesty has occured, they may 
 
 ## Appendix
 **Appendix A**
+
 Thomas High School Data
 ![pre_ths_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_ths_summary.png)
-Thomas High School Data **Excluding** Ninth Grade Students
+Thomas High School Data **_Excluding_** Ninth Grade Students
 ![post_ths_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_ths_summary.png)
 
 **Appendix B**
+
 Top Schools By Overall Passing Rate
 ![pre_top_schools](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_top_schools.png)
 Bottom Schools By Overall Passing Rate
 ![pre_bottom_schools](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_bottom_schools.png)
 
 **Appendix C**
+
 Average Reading Scores by Grade Level and School
+
 ![pre_reading_grade](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_reading_grade.png)
+
 Average Math Scores by Grade Level and School
+
 ![pre_math_grade](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_math_grade.png)
 
 **Appendix D**
+
 Scores by School Spending per Student
 ![pre_spending_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_spending_summary.png)
-Scores by School Spending per Student **Excluding** Ninth Grade Students from Thomas High School
+Scores by School Spending per Student **_Excluding_** Ninth Grade Students from Thomas High School
 ![post_spending_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_spending_summary.png)
 
 **Appendix E**
+
 Scores by School Size
 ![pre_size_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_size_summary.png)
-Scores by School Size **Excluding** Ninth Grade Students from Thomas High School
+Scores by School Size **_Excluding_** Ninth Grade Students from Thomas High School
 ![post_size_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_size_summary.png)
 
 **Appendix F**
+
 Scores by School Type
 ![pre_type_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/pre_type_summary.png)
-Scores by School Type **Excluding** Ninth Grade Students from Thomas High School
+Scores by School Type **_Excluding_** Ninth Grade Students from Thomas High School
 ![post_type_summary](https://github.com/kjminges/School_District_Analysis/blob/main/Resources/post_type_summary.png)
